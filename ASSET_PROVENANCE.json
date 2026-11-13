@@ -1,0 +1,42 @@
+[
+  {
+    "path": "static/antique-still-life.png",
+    "sha256": "e638c141014817e4f8ca5bfb44c57b3d6cc9016efc8f60f511d0d1d33a337581",
+    "source": "built-in imagegen exec-d5463e54-c8c9-4dfd-9afc-71fbe4591525",
+    "authenticity": "CONCEPT",
+    "attribution": "Original conceptual category artwork; not merchant stock",
+    "scope": "Local concept review only; production/source transfer rights NOT CLEARED"
+  },
+  {
+    "path": "static/showroom-public.jpg",
+    "sha256": "a2faa3ae701303a5b8304a160c826c5be1a81ccc559ac3e24c26c52b3058b689",
+    "source": "https://www.antiques-atlas.com/bridgendantiques/",
+    "authenticity": "REAL",
+    "attribution": "Historical dealer showroom montage; retained asset, no longer used in current home carousel",
+    "scope": "Local concept review only; production/source transfer rights NOT CLEARED"
+  },
+  {
+    "path": "static/silver-study.png",
+    "sha256": "3ac262fd66a9c1aa77cb639a59ecb553b503c1e3f76cdff60a0a2515676365f1",
+    "source": "built-in imagegen exec-be983eca-0c11-4d9b-baf9-cafafb874691",
+    "authenticity": "CONCEPT",
+    "attribution": "Original conceptual category artwork; not merchant stock",
+    "scope": "Local concept review only; production/source transfer rights NOT CLEARED"
+  },
+  {
+    "path": "static/showroom-slide-1.jpg",
+    "sha256": "3cdba2effd6edf20c3d2d6e934c631ee6fcf538c40043e7c83ef0316f0abafce",
+    "source": "https://c.yell.com/a1953832-61ae-4717-9052-35326532adec_image_jpeg.jpg",
+    "authenticity": "REAL",
+    "attribution": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; separate views matching dealer showroom montage",
+    "scope": "Local concept review only; production/source transfer rights NOT CLEARED"
+  },
+  {
+    "path": "static/showroom-slide-2.jpg",
+    "sha256": "74a058d1557a4d00f0c92b647a372b9e12a9d75938102ef488a7e57e3f991daa",
+    "source": "https://c.yell.com/1007c82f-1d8f-4769-a93c-9302e7672632_image_jpeg.jpg",
+    "authenticity": "REAL",
+    "attribution": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; separate views matching dealer showroom montage",
+    "scope": "Local concept review only; production/source transfer rights NOT CLEARED"
+  }
+]
